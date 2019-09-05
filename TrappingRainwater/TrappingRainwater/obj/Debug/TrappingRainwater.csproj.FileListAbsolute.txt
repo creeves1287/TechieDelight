@@ -1,0 +1,6 @@
+C:\Users\chris\source\repos\TechieDelight\TrappingRainwater\TrappingRainwater\bin\Debug\TrappingRainwater.dll
+C:\Users\chris\source\repos\TechieDelight\TrappingRainwater\TrappingRainwater\bin\Debug\TrappingRainwater.pdb
+C:\Users\chris\source\repos\TechieDelight\TrappingRainwater\TrappingRainwater\obj\Debug\TrappingRainwater.csprojResolveAssemblyReference.cache
+C:\Users\chris\source\repos\TechieDelight\TrappingRainwater\TrappingRainwater\obj\Debug\TrappingRainwater.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\TechieDelight\TrappingRainwater\TrappingRainwater\obj\Debug\TrappingRainwater.dll
+C:\Users\chris\source\repos\TechieDelight\TrappingRainwater\TrappingRainwater\obj\Debug\TrappingRainwater.pdb
