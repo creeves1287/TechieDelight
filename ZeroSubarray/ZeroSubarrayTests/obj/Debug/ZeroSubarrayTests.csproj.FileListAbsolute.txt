@@ -1,0 +1,15 @@
+C:\Users\chris\source\repos\TechieDelight\ZeroSubarray\ZeroSubarrayTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\chris\source\repos\TechieDelight\ZeroSubarray\ZeroSubarrayTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\chris\source\repos\TechieDelight\ZeroSubarray\ZeroSubarrayTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\chris\source\repos\TechieDelight\ZeroSubarray\ZeroSubarrayTests\bin\Debug\ZeroSubarrayTests.dll
+C:\Users\chris\source\repos\TechieDelight\ZeroSubarray\ZeroSubarrayTests\bin\Debug\ZeroSubarrayTests.pdb
+C:\Users\chris\source\repos\TechieDelight\ZeroSubarray\ZeroSubarrayTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\chris\source\repos\TechieDelight\ZeroSubarray\ZeroSubarrayTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\chris\source\repos\TechieDelight\ZeroSubarray\ZeroSubarrayTests\bin\Debug\ZeroSubarray.dll
+C:\Users\chris\source\repos\TechieDelight\ZeroSubarray\ZeroSubarrayTests\bin\Debug\ZeroSubarray.pdb
+C:\Users\chris\source\repos\TechieDelight\ZeroSubarray\ZeroSubarrayTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\chris\source\repos\TechieDelight\ZeroSubarray\ZeroSubarrayTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\chris\source\repos\TechieDelight\ZeroSubarray\ZeroSubarrayTests\obj\Debug\ZeroSubarrayTests.csprojResolveAssemblyReference.cache
+C:\Users\chris\source\repos\TechieDelight\ZeroSubarray\ZeroSubarrayTests\obj\Debug\ZeroSubarrayTests.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\TechieDelight\ZeroSubarray\ZeroSubarrayTests\obj\Debug\ZeroSubarrayTests.dll
+C:\Users\chris\source\repos\TechieDelight\ZeroSubarray\ZeroSubarrayTests\obj\Debug\ZeroSubarrayTests.pdb

@@ -1,0 +1,6 @@
+C:\Users\chris\source\repos\TechieDelight\ZeroSubarray\ZeroSubarray\bin\Debug\ZeroSubarray.dll
+C:\Users\chris\source\repos\TechieDelight\ZeroSubarray\ZeroSubarray\bin\Debug\ZeroSubarray.pdb
+C:\Users\chris\source\repos\TechieDelight\ZeroSubarray\ZeroSubarray\obj\Debug\ZeroSubarray.csprojResolveAssemblyReference.cache
+C:\Users\chris\source\repos\TechieDelight\ZeroSubarray\ZeroSubarray\obj\Debug\ZeroSubarray.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\TechieDelight\ZeroSubarray\ZeroSubarray\obj\Debug\ZeroSubarray.dll
+C:\Users\chris\source\repos\TechieDelight\ZeroSubarray\ZeroSubarray\obj\Debug\ZeroSubarray.pdb
