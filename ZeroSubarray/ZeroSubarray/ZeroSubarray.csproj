@@ -41,9 +41,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="IZeroSubarrayFinder.cs" />
+    <Compile Include="IZeroSubarrayPrinter.cs" />
     <Compile Include="ZeroSubarrayFinder.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ZeroSubarrayFinderWithHashing.cs" />
+    <Compile Include="ZeroSubarrayPrinter.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
